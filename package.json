@@ -1,0 +1,11 @@
+{
+  "name": "rework-ignore-selector",
+  "version": "0.0.1",
+  "author": "Amir Abu Shareb <yields@icloud.com>",
+  "keywords": ["ignore", "css", "rework"],
+  "devDependencies": {
+    "should": "*",
+    "rework": "*",
+    "mocha": "*"
+  }
+}
